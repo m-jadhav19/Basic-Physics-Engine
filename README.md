@@ -1,6 +1,6 @@
-2D physics engine in C#
+# 2D physics engine in C#
 
-!(Basic-Physics-Engine/uVu2oQ2X8k.gif)
+![Project GIF](https://github.com/m-jadhav19/Basic-Physics-Engine/blob/master/uVu2oQ2X8k.gif)
 
 Controls as of right now:
 
